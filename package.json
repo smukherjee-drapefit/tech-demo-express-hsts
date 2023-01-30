@@ -1,0 +1,23 @@
+{
+  "name": "tech-demo-express-hsts",
+  "version": "1.0.0",
+  "description": "Technical Demo Project of Express (Node.js) HSTS Header for Security",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Drape Fit",
+    "HSTS",
+    "Express",
+    "Security"
+  ],
+  "author": "Sukhendu Mukherjee",
+  "email": "smukherjee@drapefit.com",
+  "company": "Drape Fit Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
