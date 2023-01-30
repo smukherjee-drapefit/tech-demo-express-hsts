@@ -15,6 +15,9 @@
   ],
   "author": "Sukhendu Mukherjee",
   "email": "smukherjee@drapefit.com",
+  "contributors": [
+    "li.yang@drapefit.com"
+  ],
   "company": "Drape Fit Inc.",
   "license": "MIT",
   "dependencies": {
